@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/todato/static/css/main.073c9b0a.css",
-    "main.js": "/todato/static/js/main.26396190.js",
+    "main.css": "/todato/static/css/main.65bdcc03.css",
+    "main.js": "/todato/static/js/main.cf4e15ef.js",
     "static/js/787.214df30c.chunk.js": "/todato/static/js/787.214df30c.chunk.js",
-    "static/media/logo.svg": "/todato/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/todato/index.html",
-    "main.073c9b0a.css.map": "/todato/static/css/main.073c9b0a.css.map",
-    "main.26396190.js.map": "/todato/static/js/main.26396190.js.map",
+    "main.65bdcc03.css.map": "/todato/static/css/main.65bdcc03.css.map",
+    "main.cf4e15ef.js.map": "/todato/static/js/main.cf4e15ef.js.map",
     "787.214df30c.chunk.js.map": "/todato/static/js/787.214df30c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.26396190.js"
+    "static/css/main.65bdcc03.css",
+    "static/js/main.cf4e15ef.js"
   ]
 }
