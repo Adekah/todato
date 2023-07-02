@@ -2,8 +2,8 @@
 
 
 #Bugs
--Timer not working properly in background
+- Timer not working properly in background
 
 #Todos
--Alarms
--Background Music
+- Alarms
+- Background Music
