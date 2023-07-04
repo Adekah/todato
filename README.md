@@ -7,3 +7,4 @@
 #Todos
 - Alarms
 - Background Music
+- Add remaining time to tab bar
